@@ -1,0 +1,13 @@
+D:\Projects\VisualStudio\DirectologHelper\DirectologControls\bin\Release\DirectologControls.dll
+D:\Projects\VisualStudio\DirectologHelper\DirectologControls\bin\Release\DirectologControls.pdb
+D:\Projects\VisualStudio\DirectologHelper\DirectologControls\obj\Release\DirectologControls.DHLists.resources
+D:\Projects\VisualStudio\DirectologHelper\DirectologControls\obj\Release\DirectologControls.csproj.GenerateResource.Cache
+D:\Projects\VisualStudio\DirectologHelper\DirectologControls\obj\Release\DirectologControls.dll
+D:\Projects\VisualStudio\DirectologHelper\DirectologControls\obj\Release\DirectologControls.pdb
+D:\Projects\VisualStudio\DirectologHelper\DirectologControls\obj\Release\DirectologControls.DHAlgoritms.resources
+D:\Projects\VisualStudio\DirectologHelper\DirectologControls\obj\Release\DirectologControls.DHResult.resources
+D:\Projects\VisualStudio\DirectologHelper\DirectologControls\obj\Release\DirectologControls.DHWords.resources
+D:\Projects\VisualStudio\DirectologHelper\DirectologControls\obj\Release\DirectologControls.FAlgorytmOptions.resources
+D:\Projects\VisualStudio\DirectologHelper\DirectologControls\obj\Release\DirectologControls.Properties.Resources.resources
+D:\Projects\VisualStudio\DirectologHelper\DirectologControls\obj\Release\DirectologControls.FListName.resources
+D:\Projects\VisualStudio\DirectologHelper\DirectologControls\obj\Release\DirectologControls.FProrgess.resources

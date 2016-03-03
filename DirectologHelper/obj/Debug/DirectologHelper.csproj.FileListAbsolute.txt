@@ -1,0 +1,11 @@
+D:\Projects\VisualStudio\DirectologHelper\DirectologHelper\bin\Debug\DirectologHelper.exe.config
+D:\Projects\VisualStudio\DirectologHelper\DirectologHelper\bin\Debug\DirectologHelper.exe
+D:\Projects\VisualStudio\DirectologHelper\DirectologHelper\bin\Debug\DirectologHelper.pdb
+D:\Projects\VisualStudio\DirectologHelper\DirectologHelper\bin\Debug\DirectologControls.dll
+D:\Projects\VisualStudio\DirectologHelper\DirectologHelper\bin\Debug\DirectologControls.pdb
+D:\Projects\VisualStudio\DirectologHelper\DirectologHelper\obj\Debug\DirectologHelper.csprojResolveAssemblyReference.cache
+D:\Projects\VisualStudio\DirectologHelper\DirectologHelper\obj\Debug\DirectologHelper.Properties.Resources.resources
+D:\Projects\VisualStudio\DirectologHelper\DirectologHelper\obj\Debug\DirectologHelper.csproj.GenerateResource.Cache
+D:\Projects\VisualStudio\DirectologHelper\DirectologHelper\obj\Debug\DirectologHelper.exe
+D:\Projects\VisualStudio\DirectologHelper\DirectologHelper\obj\Debug\DirectologHelper.pdb
+D:\Projects\VisualStudio\DirectologHelper\DirectologHelper\obj\Debug\DirectologHelper.Form1.resources

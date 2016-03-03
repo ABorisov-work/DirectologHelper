@@ -1,0 +1,13 @@
+D:\Projects\VisualStudio\DirectologHelper\DirectologControls\bin\Debug\DirectologControls.dll
+D:\Projects\VisualStudio\DirectologHelper\DirectologControls\bin\Debug\DirectologControls.pdb
+D:\Projects\VisualStudio\DirectologHelper\DirectologControls\obj\Debug\DirectologControls.DHLists.resources
+D:\Projects\VisualStudio\DirectologHelper\DirectologControls\obj\Debug\DirectologControls.csproj.GenerateResource.Cache
+D:\Projects\VisualStudio\DirectologHelper\DirectologControls\obj\Debug\DirectologControls.dll
+D:\Projects\VisualStudio\DirectologHelper\DirectologControls\obj\Debug\DirectologControls.pdb
+D:\Projects\VisualStudio\DirectologHelper\DirectologControls\obj\Debug\DirectologControls.DHWords.resources
+D:\Projects\VisualStudio\DirectologHelper\DirectologControls\obj\Debug\DirectologControls.DHAlgoritms.resources
+D:\Projects\VisualStudio\DirectologHelper\DirectologControls\obj\Debug\DirectologControls.FAlgorytmOptions.resources
+D:\Projects\VisualStudio\DirectologHelper\DirectologControls\obj\Debug\DirectologControls.Properties.Resources.resources
+D:\Projects\VisualStudio\DirectologHelper\DirectologControls\obj\Debug\DirectologControls.DHResult.resources
+D:\Projects\VisualStudio\DirectologHelper\DirectologControls\obj\Debug\DirectologControls.FListName.resources
+D:\Projects\VisualStudio\DirectologHelper\DirectologControls\obj\Debug\DirectologControls.FProrgess.resources
